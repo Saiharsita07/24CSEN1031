@@ -1,2 +1,2 @@
-__ Input devices __
-Mouse,keyboard,joystick,lightpen,scanner
+__Input device__
+## Mouse keyboard
