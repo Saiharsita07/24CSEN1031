@@ -25,7 +25,8 @@ int main() {
     fibonacci_2 = fibonacci_3;
     fibonacci_3 = fibonacci_1 + fibonacci_2;
   }
-
+//3statements are present in for loop
+// "++" incerement operator
   return 0;
 }
 
