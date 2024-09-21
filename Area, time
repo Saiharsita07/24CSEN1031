@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+#define PI 3.14159
+
+int main() {
+    float radius, area;
+
+    // Prompt the user for the radius
+    printf("Enter the radius of the circle: ");
+    scanf("%f", &radius);
+
+    // Calculate the area
+    area = PI * radius * radius;
+
+    // Display the result
+    printf("The area of the circle with radius %.3f is %.3f\n", radius, area);
+}
+    int main(){
+   clock_t t;
+   t = clock();
+   printf("Timer starts");
+   take_enter();
+   printf("Timer ends ");
+}
+    return 0;
+}
