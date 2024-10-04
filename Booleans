@@ -18,7 +18,7 @@ output:
 === Code Execution Successful ===
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+#include <stdio.h>
  int main()
   {
   int myAge = 25;
