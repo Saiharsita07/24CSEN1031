@@ -15,12 +15,14 @@ int main() {
     // Display the result
     printf("The area of the circle with radius %.3f is %.3f\n", radius, area);
 }
-    int main(){
-   clock_t t;
-   t = clock();
-   printf("Timer starts");
-   take_enter();
-   printf("Timer ends ");
-}
-    return 0;
-}
+
+OUTPUT:
+
+Enter the radius of the circle: 10
+The area of the circle with radius 10.000 is 314.159
+
+
+=== Code Execution Successful ===
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   
