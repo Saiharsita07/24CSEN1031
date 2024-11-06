@@ -32,7 +32,7 @@ int main() {
 
 /* Output
 
-/tmp/uJK4kAQksK.o
+
 Enter the number of terms (greater than 2): 8
 Fibonacci Series: 
 0 
